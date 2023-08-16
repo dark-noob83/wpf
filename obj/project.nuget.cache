@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "RnO7Hr2mjE6Gtxx6HxhU/4xqNIXfrPpLSXd0+GM6FyyCiSySRGMtzW4DfO9sKN28VYXhcJgypva5Q3ak+AxEXA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\saratell\\Desktop\\ap_project\\AP_Project\\WpfApp2\\WpfApp2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\saratell\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\saratell\\.nuget\\packages\\npgsql\\7.0.4\\npgsql.7.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
